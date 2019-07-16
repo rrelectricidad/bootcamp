@@ -2,7 +2,7 @@ class persona:
     edad = 0
     def __init__(self , un_npombre):
         self.mi_nombre = un_npombre
-        print("Hola naci , me llamo, y soy un genio" , self.mi_nombre)
+        print("Hola naci , me llamo, " , self.mi_nombre, "y soy un genio")
     def cumple(self):
         self.edad = self.edad + 1
 

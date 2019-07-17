@@ -1,0 +1,19 @@
+[Desktop Entry]
+
+Version=1.0
+
+Name=xowa_launch_32
+
+Comment=launch the 32 Bit version of xowa
+
+Exec=sh /home/labdoo/Public/xowa/xowa_launcher_32.sh
+
+Icon=/home/labdoo/Public/xowa/xowa.png
+
+Path=/home/labdoo/Public/xowa
+
+Terminal=false
+
+Type=Application
+
+Categories=Utility;Application;

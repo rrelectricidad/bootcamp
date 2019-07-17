@@ -13,6 +13,7 @@ class Dino:
 
 
 
+
 vari = Dino( "tirano", 1, "20")
 
 
